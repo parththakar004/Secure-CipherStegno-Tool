@@ -66,10 +66,10 @@ pip install -r requirements.txt
 python app.py
 ```
 ## 🧪Coming Soon...
--🧠 AI-based detection for hidden data
--🛡️ Biometric key pairing
--🌍 Web-based version (Flask + Vercel)
--💽 Support for MP3, MP4 stego
+- 🧠 AI-based detection for hidden data
+- 🛡️ Biometric key pairing
+- 🌍 Web-based version (Flask + Vercel)
+- 💽 Support for MP3, MP4 stego
 
 ## 🤝Contributing
 ```
