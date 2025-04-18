@@ -22,7 +22,7 @@
 
 ## 🚀 Demo
 
-> 📥 Download: [Releases](https://github.com/your-username/secure-cipherstegno-tool/releases)
+> 📥 Download: [Releases](https://github.com/parththakar004/Secure-CipherStegno-Tool)
 
 ---
 
@@ -60,7 +60,7 @@ This tool aligns perfectly with the **Screenpipe** mission of **privacy-first, l
 ## 🧪 Installation
 
 ```bash
-git clone https://github.com/your-username/secure-cipherstegno-tool.git
+git clone https://github.com/parththakar004/Secure-CipherStegno-Tool.git
 cd secure-cipherstegno-tool
 pip install -r requirements.txt
 python app.py
