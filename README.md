@@ -2,7 +2,7 @@
 
 **Secure CipherStegno Tool** is an advanced privacy-focused application that combines **cryptography** and **steganography** to securely encrypt and embed sensitive information into images or audio files — all processed **locally** to ensure maximum security and data integrity.
 
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://github.com/parththakar004/Secure-CipherStegno-Tool/blob/main/LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-yellow)
 
